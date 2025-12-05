@@ -1,0 +1,5 @@
+/public
+   |_ _redirects
+   |_ index.html
+   |_ ...
+/*    /index.html   200
