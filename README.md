@@ -33,4 +33,4 @@ Open [http://localhost:3000](http://localhost:3000) to see it in action.
 
 ## Build Deployment
 
-- Run at [https://aesthetic-pothos-0a90fe.netlify.app/](Shipping Box)
+- Run at [Shipping Box](https://aesthetic-pothos-0a90fe.netlify.app/)
